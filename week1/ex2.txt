@@ -1,0 +1,1000 @@
+  402  ./a.out
+  403  gcc count.c
+  404  ./a.out
+  405  gcc count.c
+  406  ./a.out
+  407  gcc count.c
+  408  ./a.out
+  409  gcc count.c
+  410  ./a.out
+  411  gcc count.c
+  412  ./a.out
+  413  gcc count.c
+  414  ./a.out
+  415  gcc count.c
+  416  ./a.out
+  417  gcc count.c
+  418  ./a.out
+  419  gcc count.c
+  420  ./a.out
+  421  gcc count.c
+  422  ./a.out
+  423  gcc count.c
+  424  ./a.out
+  425  gcc count.c
+  426  ./a.out
+  427  gcc count.c
+  428  ./a.out
+  429  gcc count.c
+  430  ./a.out
+  431  gcc count.c
+  432  ./a.out
+  433  gcc count.c
+  434  ./a.out
+  435  gcc count.c
+  436  gcc strongNumber.c
+  437  gcc strong.c
+  438  ./a.out
+  439  gcc strong.c
+  440  ./a.out
+  441  gcc count.c
+  442  ./a.out
+  443  gcc count.c
+  444  ./a.out
+  445  gcc count.c
+  446  ./a.out
+  447  gcc count.c
+  448  ./a.out
+  449  gcc count.c
+  450  ./a.out
+  451  gcc count.c
+  452  ./a.out
+  453  gcc count.c
+  454  ./a.out
+  455  gcc count.c
+  456  ./a.out
+  457  gcc count.c
+  458  ./a.out
+  459  gcc count.c
+  460  ./a.out
+  461  gcc count.c
+  462  ./a.out
+  463  gcc count.c
+  464  ./a.out
+  465  gcc count.c
+  466  ./a.out
+  467  gcc count.c
+  468  ./a.out
+  469  gcc count.c
+  470  ./a.out
+  471  gcc count.c
+  472  ./a.out
+  473  gcc count.c
+  474  ./a.out
+  475  gcc count.c
+  476  ./a.out
+  477  gcc count.c
+  478  ./a.out
+  479  gcc count.c
+  480  ./a.out
+  481  gcc count.c
+  482  ./a.out
+  483  gcc count.c
+  484  ./a.out
+  485  gcc strong.c
+  486  ./a.out
+  487  cd /home/alice/
+  488  cd C\ projects/
+  489  gcc wordCounter.c
+  490  ./a.out
+  491  cd /home/alice/
+  492  cd C\ projects/
+  493  gcc count.c
+  494  ./a.out
+  495  gcc strong.c
+  496  ./a.out
+  497  gcc strong.c
+  498  ./a.out
+  499  gcc strong.c
+  500  ./a.out
+  501  gcc strong.c
+  502  ./a.out
+  503  gcc strong.c
+  504  ./a.out
+  505  gcc strong.c
+  506  ./a.out
+  507  gcc strong.c
+  508  1
+  509  ./a.out
+  510  gcc strong.c
+  511  ./a.out
+  512  Sudo./home/alice/Загрузки/mentalray-for-Maya-2017-1.2-linux-x86-64-gcc4-mr3.14.5.1.run
+  513  sudo./mentalray
+  514  sudo./mentalray-for-Maya-2017
+  515  Sudo./mentalray-for-Maya-2017-1.2-linux-x86-64-gcc4-mr3.14.5.1.run
+  516  sudo ./mentalray-for-Maya-2017-1.2-linux-x86-64-gcc4-mr3.14.5.1.run
+  517  sudo ./mentalray-standalone-for-Maya-2017-1.2-linux-x86-64-gcc4-mr3.14.5.1.run
+  518  maya
+  519  cd /home/alice/
+  520  cd C\ projects/
+  521  gcc convert.c
+  522  ./a.out
+  523  gcc convert.c
+  524  ./a.out
+  525  cd /home/alice/
+  526  cd C\ projects/
+  527  gcc convert.c
+  528  ./a.out
+  529  gcc convert.c
+  530  ./a.out
+  531  gcc convert.c
+  532  ./a.out
+  533  gcc convert.c
+  534  ./a.out
+  535  gcc convert.c
+  536  ./a.out
+  537  maya
+  538  cd /home/alice/
+  539  cd C\ projects/
+  540  gcc convert.c
+  541  ./a.out
+  542  gcc convert.c
+  543  ./a.out
+  544  gcc convert.c
+  545  ./a.out
+  546  gcc toBin.c
+  547  ./a.out
+  548  gcc toBin.c
+  549  ./a.out
+  550  gcc toBin.c
+  551  ./a.out
+  552  gcc toBin.c
+  553  ./a.out
+  554  cd /home/alice/
+  555  cd C\ projects/
+  556  gcc histogram.c
+  557  ./a.out
+  558  gcc histogram.c
+  559  ./a.out
+  560  gcc histogram.c
+  561  ./a.out
+  562  gcc histogram.c
+  563  ./a.out
+  564  cd /home/alice/
+  565  cd C\ projects/
+  566  gcc histogram.c
+  567  ./a.out
+  568  gcc -Wall -o "histogram" "histogram.c"
+  569  cd /home/alice/
+  570  cd C\ projects/
+  571  gcc -Wall -o "histtable" "histtable.c"
+  572  ./a.out
+  573  ls
+  574  gcc -Wall -o "histtable" "histtable.o"
+  575  ./a.out
+  576  gcc hist.o
+  577  ./a.out
+  578  cd /home/alice/
+  579  cd C\ projects/
+  580  ls
+  581  histogram
+  582  /histogram
+  583  gcc --version
+  584  mc
+  585  cd /home/alice/
+  586  cd C\ projects/
+  587  gcc histogram.c
+  588  ./a.out
+  589  gcc toBin.c
+  590  ./a.out
+  591  gcc histogram.c
+  592  ./a.out
+  593  gcc toBin.c
+  594  ./a.out
+  595  gcc fileWork.c
+  596  ./a.out
+  597  gcc fileWork.c
+  598  ./a.out
+  599  gcc fileWork.c
+  600  ./a.out
+  601  gcc fileWork.c
+  602  ./a.out
+  603  gcc fileWork.c
+  604  ./a.out
+  605  gcc fileWork.c
+  606  ./a.out
+  607  gcc fileWork.c
+  608  ./a.out
+  609  gcc fileWork.c
+  610  ./a.out
+  611  gcc fileWork.c
+  612  ./a.out
+  613  gcc fileWork.c
+  614  > output.txt
+  615  ./a.out
+  616  >text.txt
+  617  ./a.out
+  618  gcc fileWork.c
+  619  >text.txt
+  620  > output.txt
+  621  ./a.out
+  622  gcc fileWork.c
+  623  ./a.out
+  624  gcc fil.c
+  625  ./a.out
+  626  gcc fileWork.c
+  627  cd /home/alice/
+  628  cd C\ projects/
+  629  gcc toBin.c
+  630  ./a.out
+  631  gcc fileComparison.c
+  632  ./a.out
+  633  gcc fileWork.c
+  634  ./a.out
+  635  gcc fileComparison.c
+  636  ./a.out
+  637  gcc fileComparison.c
+  638  ./a.out
+  639  gcc fileComparison.c
+  640  ./a.out
+  641  gcc fileComparison.c
+  642  ./a.out
+  643  gcc fileComparison.c
+  644  ./a.out
+  645  gcc fileComparison.c
+  646  ./a.out
+  647  gcc fileComparison.c
+  648  ./a.out
+  649  gcc fileComparison.c
+  650  ./a.out
+  651  gcc fileComparison.c
+  652  ./a.out
+  653  cd /home/alice/
+  654  cd C\ projects/
+  655  gcc fileComparison.c
+  656  ./a.out
+  657  cd /home/alice/
+  658  cd C\ projects/
+  659  gcc fileComparison.c
+  660  ./a.out
+  661  gcc fileComparison.c
+  662  ./a.out
+  663  maya
+  664  diff
+  665  zip BS18-05_Martyanova_Alisa.zip Martyanova_Alisa_Theoretical_part.pdf
+  666  maya
+  667  cd /home/alice/
+  668  cd C\ projects/
+  669  gcc createFile.c
+  670  ./a.out
+  671  gcc createFile.c
+  672  ./a.out
+  673  gcc createFile.c
+  674  ./a.out
+  675  gcc createFile.c
+  676  ./a.out
+  677  gcc createFile.c
+  678  ./a.out
+  679  cd /home/alice/
+  680  cd C\ projects/
+  681  gcc createFile.c
+  682  ./a.out
+  683  gcc createFile.c
+  684  ./a.out
+  685  gcc createFile.c
+  686  ./a.out
+  687  gcc createFile.c
+  688  ./a.out
+  689  cd /home/alice/
+  690  cd C\ projects/
+  691  gcc createFile.c
+  692  ./a.out
+  693  gcc createFile.c
+  694  ./a.out
+  695  gcc createFile.c
+  696  ./a.out
+  697  cd /home/alice/files
+  698  gcc createFile.c
+  699  ./a.out
+  700  gcc createFile.c
+  701  ./a.out
+  702  gcc createFile.c
+  703  ./a.out
+  704  gcc createFile.c
+  705  ./a.out
+  706  gcc createFile.c
+  707  ./a.out
+  708  gcc createFile.c
+  709  ./a.out
+  710  gcc createFile.c
+  711  ./a.out
+  712  gcc createFile.c
+  713  ./a.out
+  714  gcc createFile.c
+  715  ./a.out
+  716  cd /home/alice/files
+  717  gcc createFile.c
+  718  ./a.out
+  719  gcc createFile.c
+  720  ./a.out
+  721  gcc createFile.c
+  722  ./a.out
+  723  cd /home/alice/files
+  724  gcc createFile.c
+  725  ./a.out
+  726  gcc createFile.c
+  727  ./a.out
+  728  .c
+  729  gcc files.c
+  730  ./a.out
+  731  gcc files.c
+  732  ./a.out
+  733  cd /home/alice/files
+  734  gcc files.c
+  735  ./a.out
+  736  gcc files.c
+  737  ./a.out
+  738  gcc files.c
+  739  ./a.out
+  740  gcc files.c
+  741  ./a.out
+  742  gcc files.c
+  743  ./a.out
+  744  cd /home/alice/files
+  745  gcc files.c
+  746  cd /home/alice/files
+  747  gcc files.c
+  748  ./a.out
+  749  gcc files.c
+  750  ./a.out
+  751  gcc files.c
+  752  ./a.out
+  753  gcc files.c
+  754  ./a.out
+  755  gcc files.c
+  756  ./a.out
+  757  gcc files.c
+  758  ./a.out
+  759  gcc files.c
+  760  ./a.out
+  761  gcc files.c
+  762  ./a.out
+  763  gcc files.c
+  764  ./a.out
+  765  gcc files.c
+  766  ./a.out
+  767  gcc files.c
+  768  ./a.out
+  769  gcc files.c
+  770  ./a.out
+  771  gcc files.c
+  772  ./a.out
+  773  cd /home/alice/files
+  774  gcc files.c
+  775  ./a.out
+  776  gcc files.c
+  777  ./a.out
+  778  gcc files.c
+  779  cd /home/alice/
+  780  cd C\ projects/
+  781  gcc intSize.c
+  782  ./a.out
+  783  maya
+  784  cd /home/alice/
+  785  cd C\ projects/
+  786  gcc struct.c
+  787  ./a.out
+  788  fyujyuj
+  789  gcc struct.c
+  790  ./a.out
+  791  gcc struct.c
+  792  ./a.out
+  793  gcc struct.c
+  794  ./a.out
+  795  z
+  796  gcc struct.c
+  797  ./a.out
+  798  gcc struct.c
+  799  ./a.out
+  800  gcc struct.c
+  801  ./a.out
+  802  zzzzz
+  803  gcc struct.c
+  804  ./a.out
+  805  gcc struct.c
+  806  ./a.out
+  807  gcc struct.c
+  808  ./a.out
+  809  gcc struct.c
+  810  ./a.out
+  811  gcc findInfo.c
+  812  ./a.out
+  813  gcc findInfo.c
+  814  ./a.out
+  815  gcc findInfo.c
+  816  ./a.out
+  817  gcc findInfo.c
+  818  ./a.out
+  819  gcc findInfo.c
+  820  ./a.out
+  821  gcc findInfo.c
+  822  ./a.out
+  823  gcc findInfo.c
+  824  ./a.out
+  825  gcc inputCounter.c
+  826  ./a.out
+  827  cd /home/alice/
+  828  cd C\ projects/
+  829  gcc inputCounter.c
+  830  ./a.out
+  831  cd /home/alice/
+  832  cd C\ projects/
+  833  gcc inputCounter.c
+  834  ./a.out
+  835  cd /home/alice/
+  836  cd C\ projects/
+  837  gcc inputCounter.c
+  838  ./a.out
+  839  cd /home/alice/
+  840  cd C\ projects/
+  841  gcc inputCounter.c
+  842  ./a.out
+  843  cd /home/alice/
+  844  cd C\ projects/
+  845  gcc inputCounter.c
+  846  ./a.out
+  847  gcc inputCounter.c
+  848  ./a.out
+  849  gcc inputCounter.c
+  850  ./a.out
+  851  gcc inputCounter.c
+  852  ./a.out
+  853  gcc inputCounter.c
+  854  ./a.out
+  855  gcc inputCounter.c
+  856  ./a.out
+  857  gcc inputCounter.c
+  858  ./a.out
+  859  gcc for (int i = 0; i<n; i++)
+  860  { f("%d", input[i]);
+  861  if (count[input[i]] == 0) {count[input[i]]++; output[j] = input[i]; j++;}
+  862  gcc uniqueArr.c
+  863  ./a.out
+  864  gcc uniqueArr.c
+  865  ./a.out
+  866  gcc uniqueArr.c
+  867  ./a.out
+  868  gcc uniqueArr.c
+  869  ./a.out
+  870  gcc password.c
+  871  ./a.out
+  872  gcc password.c
+  873  ./a.out
+  874  gcc password.c
+  875  ./a.out
+  876  gcc password.c
+  877  ./a.out
+  878  gcc password.c
+  879  ./a.out
+  880  gcc password.c
+  881  ./a.out
+  882  gcc password.c
+  883  ./a.out
+  884  cd /home/alice/
+  885  cd C\ projects/
+  886  gcc fileComparison.c
+  887  ./a.out
+  888  gcc fileComparison.c
+  889  ./a.out
+  890  gcc fileComparison.c
+  891  ./a.out
+  892  gcc fileComparison.c
+  893  ./a.out
+  894  gcc fileComparison.c
+  895  ./a.out
+  896  gcc fileComparison.c
+  897  ./a.out
+  898  gcc exam.c
+  899  ./a.out
+  900  gcc exam.c
+  901  ./a.out
+  902  maya
+  903  cd /home/alice/
+  904  cd C\ projects/
+  905  gcc main0.c
+  906  ./a.out
+  907  ./main0
+  908  cd /home/alice/
+  909  cd C\ projects/
+  910  gcc main0.c
+  911  ./a.out
+  912  cd /home/alice/
+  913  cd C\ projects/
+  914  gcc main0.c
+  915  ./a.out
+  916  gcc main0.c
+  917  ./a.out
+  918  gcc main0.c
+  919  ./a.out
+  920  gcc main0.c
+  921  ./a.out
+  922  gcc main0.c
+  923  ./a.out
+  924  gcc main0.c
+  925  ./a.out
+  926  gcc main0.c
+  927  ./a.out
+  928  maya
+  929  install.sh
+  930  ./install.sh
+  931  ls
+  932  /ЗАГРУЗКИ
+  933  Загрузки
+  934  /Загрузки
+  935  maya
+  936  cd /home/alice/
+  937  cd C\ projects/
+  938  gcc fact.c
+  939  gcc -S -Og fact.c -o fact.s
+  940  gcc -S -Og fact.c -o fact_goto.s
+  941  gcc -S -Og fact.c -o fact.s
+  942  gcc -S -O1 fact.c -o fact.s
+  943  gcc -S -Og fact_goto_opt.c -o fact.s
+  944  gcc -S -O1 fact.c -o fact.s
+  945  gcc -S -Og fact_goto_opt.c -o fact_goto_opt.s
+  946  gcc -S -Og sum_for.c -o sum_for_g.s
+  947  gcc -S -O1 sum_for.c -o sum_for_1.s
+  948  gcc -S -O1 sum_while.c -o sum_while_1.s
+  949  gcc -S -Og sum_while.c -o sum_while_g.s
+  950  gcc -S -Og sum_for_cont.c -o sum_for_cont_g.s
+  951  gcc -S -Og sum_while_cont.c -o sum_while_cont_g.s
+  952  maya
+  953  cd
+  954  /cd
+  955  \cd
+  956  maya
+  957  cd /home/alice/
+  958  Cline/bin./clion.sh
+  959  Clion/bin./clion.sh
+  960  cd /home/alice/
+  961  cd C\ projects/
+  962  gcc thread.c
+  963  gcc thread.c - lpthread
+  964  cd /home/alice/
+  965  cd C\ projects/
+  966  ./a.out
+  967  gcc thread.c -lpthread
+  968  ./a.out
+  969  cd /home/alice/
+  970  cd C\ projects/
+  971  gcc thread.c -lpthread
+  972  ./a.out
+  973  cd /home/alice/
+  974  cd C\ projects/
+  975  gcc thread.c -lpthread
+  976  ./a.out
+  977  gcc thread.c -lpthread
+  978  ./a.out
+  979  gcc thread.c -lpthread
+  980  ./a.out
+  981  gcc thread.c -lpthread
+  982  ./a.out
+  983  gcc thread.c -lpthread
+  984  ./a.out
+  985  gcc thread.c -lpthread
+  986  ./a.out
+  987  gcc thread.c -lpthread
+  988  ./a.out
+  989  gcc thread.c -lpthread
+  990  ./a.out
+  991  gcc thread.c -lpthread
+  992  ./a.out
+  993  gcc thread.c -lpthread
+  994  ./a.out
+  995  gcc thread.c -lpthread
+  996  ./a.out
+  997  gcc thread.c -lpthread
+  998  ./a.out
+  999  gcc thread.c -lpthread
+ 1000  ./a.out
+ 1001  gcc thread.c -lpthread
+ 1002  ./a.out
+ 1003  gcc thread.c -lpthread
+ 1004  ./a.out
+ 1005  gcc thread.c -lpthread
+ 1006  ./a.out
+ 1007  gcc thread.c -lpthread
+ 1008  ./a.out
+ 1009  gcc thread.c -lpthread
+ 1010  ./a.out
+ 1011  gcc thread.c -lpthread
+ 1012  ./a.out
+ 1013  gcc thread.c -lpthread
+ 1014  ./a.out
+ 1015  gcc thread.c -lpthread
+ 1016  ./a.out
+ 1017  gcc thread.c -lpthread
+ 1018  ./a.out
+ 1019  gcc thread.c -lpthread
+ 1020  ./a.out
+ 1021  gcc thread.c -lpthread
+ 1022  ./a.out
+ 1023  gcc thread.c -lpthread
+ 1024  ./a.out
+ 1025  gcc thread.c -lpthread
+ 1026  ./a.out
+ 1027  gcc thread.c -lpthread
+ 1028  ./a.out
+ 1029  gcc thread.c -lpthread
+ 1030  ./a.out
+ 1031  gcc thread.c -lpthread
+ 1032  ./a.out
+ 1033  gcc thread.c -lpthread
+ 1034  ./a.out
+ 1035  gcc thread.c -lpthread
+ 1036  ./a.out
+ 1037  gcc thread.c -lpthread
+ 1038  ./a.out
+ 1039  gcc thread.c -lpthread
+ 1040  ./a.out
+ 1041  gcc thread.c -lpthread
+ 1042  ./a.out
+ 1043  gcc thread.c -lpthread
+ 1044  ./a.out
+ 1045  cd /home/alice/
+ 1046  cd C\ projects/
+ 1047  gcc thread.c -lpthread
+ 1048  ./a.out
+ 1049  gcc thread.c -lpthread
+ 1050  ./a.out
+ 1051  gcc thread.c -lpthread
+ 1052  ./a.out
+ 1053  gcc thread.c -lpthread
+ 1054  ./a.out
+ 1055  gcc thread.c -lpthread
+ 1056  ./a.out
+ 1057  gcc thread.c -lpthread
+ 1058  ./a.out
+ 1059  gcc thread.c -lpthread
+ 1060  ./a.out
+ 1061  gcc thread.c -lpthread
+ 1062  ./a.out
+ 1063  gcc thread.c -lpthread
+ 1064  ./a.out
+ 1065  gcc thread.c -lpthread
+ 1066  ./a.out
+ 1067  gcc thread.c -lpthread
+ 1068  ./a.out
+ 1069  gcc thread.c -lpthread
+ 1070  ./a.out
+ 1071  gcc thread.c -lpthread
+ 1072  ./a.out
+ 1073  gcc thread.c -lpthread
+ 1074  ./a.out
+ 1075  gcc thread.c -lpthread
+ 1076  ./a.out
+ 1077  gcc thread.c -lpthread
+ 1078  ./a.out
+ 1079  cd /home/alice/
+ 1080  cd C\ projects/
+ 1081  gcc thread.c -lpthread
+ 1082  ./a.out
+ 1083  gcc thread.c -lpthread
+ 1084  ./a.out
+ 1085  gcc thread.c -lpthread
+ 1086  ./a.out
+ 1087  gcc thread.c -lpthread
+ 1088  ./a.out
+ 1089  gcc thread.c -lpthread
+ 1090  ./a.out
+ 1091  maya
+ 1092  cd /home/alice/
+ 1093  cd C\ projects/
+ 1094  gcc encryption.c
+ 1095  ./a.out
+ 1096  gcc encryption.c
+ 1097  ./a.out
+ 1098  gcc encryption.c
+ 1099  ./a.out
+ 1100  gcc encryption.c
+ 1101  ./a.out
+ 1102  gcc encryption.c
+ 1103  ./a.out
+ 1104  gcc encryption.c
+ 1105  ./a.out
+ 1106  gcc encryption.c
+ 1107  ./a.out
+ 1108  gcc encryption.c
+ 1109  ./a.out
+ 1110  gcc encryption.c
+ 1111  ./a.out
+ 1112  gcc encryption.c
+ 1113  ./a.out
+ 1114  gcc encryption.c
+ 1115  ./a.out
+ 1116  gcc encryption.c
+ 1117  ./a.out
+ 1118  gcc encryption.c
+ 1119  ./a.out
+ 1120  gcc encryption.c
+ 1121  ./a.out
+ 1122  gcc encryption.c
+ 1123  ./a.out
+ 1124  gcc encryption.c
+ 1125  ./a.out
+ 1126  gcc encryption.c
+ 1127  ./a.out
+ 1128  gcc encryption.c
+ 1129  ./a.out
+ 1130  gcc encryption.c
+ 1131  ./a.out
+ 1132  gcc encryption.c
+ 1133  ./a.out
+ 1134  gcc encryption.c
+ 1135  ./a.out
+ 1136  gcc encryption.c
+ 1137  ./a.out
+ 1138  gcc encryption.c
+ 1139  ./a.out
+ 1140  gcc encryption.c
+ 1141  ./a.out
+ 1142  gcc encryption.c
+ 1143  ./a.out
+ 1144  gcc encryption.c
+ 1145  ./a.out
+ 1146  gcc encryption.c
+ 1147  ./a.out
+ 1148  cd /home/alice/
+ 1149  cd C\ projects/
+ 1150  gcc encryption.c
+ 1151  ./a.out
+ 1152  gcc encryption.c
+ 1153  ./a.out
+ 1154  gcc encryption.c
+ 1155  ./a.out
+ 1156  gcc encryption.c
+ 1157  ./a.out
+ 1158  gcc encryption.c
+ 1159  ./a.out
+ 1160  gcc inno.c
+ 1161  ./a.out
+ 1162  gcc inno.c
+ 1163  ./a.out
+ 1164  gcc inno.c
+ 1165  ./a.out
+ 1166  gcc inno.c
+ 1167  ./a.out
+ 1168  gcc inno.c
+ 1169  ./a.out
+ 1170  maya
+ 1171  Sudo apt-get update
+ 1172  sudo apt-get update
+ 1173  Папа 💜, [13.04.19 14:09]
+ 1174  sudo apt-get dist-upgrade
+ 1175  maya
+ 1176  sudo get-apt cmake
+ 1177  sudo apt-get cmake
+ 1178  cmake
+ 1179  sudo apt install cmake
+ 1180  sudo apt-get install valgrind
+ 1181  valgrind
+ 1182  --help
+ 1183  G_SLICE=always-malloc G_DEBUG=gc-friendly  valgrind -v --tool=memcheck --leak-check=full --num-callers=40 --log-file=valgrind.log $(which <program>) <arguments>
+ 1184  G_SLICE=always-malloc G_DEBUG=gc-friendly  valgrind -v --tool=memcheck --leak-check=full --num-callers=40 --log-file=valgrind.log $(which <valgrind>) <valgrind>
+ 1185  cd /home/alice/
+ 1186  cd C\ projects/
+ 1187  gcc fibWhile.c
+ 1188  ./a.out
+ 1189  gcc fibWhile.c
+ 1190  ./a.out
+ 1191  gcc fibWhile.c
+ 1192  ./a.out
+ 1193  gcc -S -Og fibWhile.c -o fibWhile_Og.s
+ 1194  gcc fibWhile.c
+ 1195  ./a.out
+ 1196  gcc fibWhile.c
+ 1197  ./a.out
+ 1198  gcc fibWhile.c
+ 1199  ./a.out
+ 1200  gcc fibDoWhile.c
+ 1201  ./a.out
+ 1202  gcc -S -Og fibDoWhile.c -o fibDoWhile_Og.s
+ 1203  gcc fibGoTo.c
+ 1204  ./a.out
+ 1205  gcc fibGoTo.c
+ 1206  ./a.out
+ 1207  gcc -S -Og fibGoTo.c -o fibGoTo_Og.s
+ 1208  gcc fibWhile.c
+ 1209  ./a.out
+ 1210  gcc -S -O1 fibDoWhile.c -o fibDoWhile_O1.s
+ 1211  gcc -S -O1 fibWhile.c -o fibWhile_O1.s
+ 1212  cd /home/alice/
+ 1213  cd C\ projects/
+ 1214  gcc -S -O1 fibWhile.c -o fibWhile_O1.s
+ 1215  gcc -S -Og fibGoTo.c -o fibGoTo_Og.s
+ 1216  lsb_release -a
+ 1217  cd /home/alice/
+ 1218  TD.exe
+ 1219  cd /home/alice/
+ 1220  MyGames
+ 1221  MyGames/
+ 1222  MyGame/TD.exe
+ 1223  cd /home/alice/
+ 1224  cd C\ projects/
+ 1225  gcc thread.c
+ 1226  ./a.out
+ 1227  gcc thread.c
+ 1228  gcc thread.c -lpthread
+ 1229  ./a.out
+ 1230  gcc thread.c -lpthread
+ 1231  ./a.out
+ 1232  gcc thread.c -lpthread
+ 1233  ./a.out
+ 1234  gcc thread.c -lpthread
+ 1235  ./a.out
+ 1236  gcc thread.c -lpthread
+ 1237  ./a.out
+ 1238  gcc thread.c -lpthread
+ 1239  ./a.out
+ 1240  gcc thread.c -lpthread
+ 1241  ./a.out
+ 1242  gcc thread.c -lpthread
+ 1243  ./a.out
+ 1244  maya
+ 1245  blender
+ 1246  sudo apt install blender
+ 1247  blender
+ 1248  maya
+ 1249  ьфнф
+ 1250  maya
+ 1251  gpaint
+ 1252  gpaint delete
+ 1253  sudo apt-get remove gpaint
+ 1254  sudo apt-get remove blender
+ 1255  maya
+ 1256  android
+ 1257  androidstudio
+ 1258  android-studio
+ 1259  android-studio-ide
+ 1260  android
+ 1261  sudo apt install openjdk-11-jre-headless
+ 1262  sudo apt-add-repository ppa:maarten-fonville/android-studio
+ 1263  sudo apt-get install android-studio
+ 1264  sudo apt-get update
+ 1265  sudo apt-get install android-studio
+ 1266  sudo apt autoremove
+ 1267  sudo apt-get install android-studio-preview
+ 1268  maya
+ 1269  sudo apt-get update
+ 1270  sudo apt-get remove VisualStudio
+ 1271  sudo apt-get remove VisualStudioCode
+ 1272  sudo apt-get remove Visual Studio Code
+ 1273  sudo apt-get remove Visual \Studio \Code
+ 1274  sudo apt-get purge --auto-remove visual-studio-code
+ 1275  umake web visual-studio-code --remove
+ 1276  sudo apt-get purge --auto-remove visual-studio-code
+ 1277  sudo apt remove code && sudo apt autoremove
+ 1278  sudo apt-get remove Eiffel Studio
+ 1279  sudo apt-get remove estudio
+ 1280  estudio
+ 1281  sudo apt-get remove estudio
+ 1282  sudo apt-get remove EiffelStudio
+ 1283  git-sh
+ 1284  git add
+ 1285  git config global user alicemartyanova48@gmail.com
+ 1286  git init
+ 1287  maya
+ 1288  sudo apt-get install git
+ 1289  sudo apt install ./gitkraken-amd64.deb
+ 1290  sudo apt-get install gitkraken
+ 1291  sudo apt install gitkraken-amd64.deb
+ 1292  sudo apt-get update
+ 1293  sudo apt install gitkraken-amd64.deb
+ 1294  sudo apt install ./gitkraken-amd64.deb
+ 1295  sudo apt autoremove
+ 1296  sudo dpkg -i gitkraken-amd64.deb
+ 1297  sudo dpkg -i ./gitkraken-amd64.deb
+ 1298  wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
+ 1299  sudo apt-get install ./gitkraken-amd64.deb
+ 1300  cd /home/alice/
+ 1301  sudo apt-get install ./cplex_studio129.linux-x86-64.bin
+ 1302  sudo apt-get install cplex_studio129.linux-x86-64.bin
+ 1303  cplex_studio129.linux-x86-64.bin
+ 1304  ./cplex_studio129.linux-x86-64.bin
+ 1305  sudo ./cplex_studio129.linux-x86-64.bin
+ 1306  cd /home/alice/
+ 1307  sudo chmod +x./cplex_studio129.linux-x86-64.bin
+ 1308  chmod +x./cplex_studio129.linux-x86-64.bin
+ 1309  chmod+x./cplex_studio129.linux-x86-64.bin
+ 1310  chmod +x./cplex_studio129.linux-x86-64.bin
+ 1311  chmod +x ./cplex_studio129.linux-x86-64.bin
+ 1312  cplex_studio129.linux-x86-64
+ 1313  cpan5.22-x86_64-linux-gnu
+ 1314  cd /home/alice/
+ 1315  cplex
+ 1316  CPLEX
+ 1317  /opt/ibm/ILOG/CPLEX_Studio129
+ 1318  /opt/ibm/ILOG
+ 1319  sudo apt-get install language-pack-pt
+ 1320  cd /media/alice/HD-EG5
+ 1321  cd /media/alice/
+ 1322  ls
+ 1323  cd /media/alice/HD-EG5
+ 1324  ls
+ 1325  ls -a
+ 1326  sudo apt-get dist-upgrade 
+ 1327  sudo apt-get update
+ 1328  sudo apt-get install mysql-server
+ 1329  mysql_secure_installation
+ 1330  systemctl status mysql.service
+ 1331  sudo apt-get dist-upgrade 
+ 1332  sudo apt-get autoremove
+ 1333  sudo apt-get update
+ 1334  sudo apt-get dist-upgrade 
+ 1335  sudo systemctl start mysql
+ 1336  mysql -u root -p
+ 1337  mysql -u lrngsql -p;
+ 1338  mysql -u lrng-sql -p;
+ 1339  etc
+ 1340  /
+ 1341  sudo mc
+ 1342  sudo update-grub
+ 1343  sudo dd if=/dev/sda of=/dev/sdb bs=256 status=progress conv=noerror 
+ 1344  sudo halt
+ 1345  sudo update-grub
+ 1346  sudo mc
+ 1347  sudo grub-menulst2cfg 
+ 1348  sudo update-grub
+ 1349  sudo mc
+ 1350  sudo apt-get update
+ 1351  sudo apt-get dist-upgrade 
+ 1352  sudo apt-get autoremove
+ 1353  ls
+ 1354  ls/
+ 1355  sudo apt-get autoremove
+ 1356  cd
+ 1357  gitHub
+ 1358  cd/mid
+ 1359  cd/home
+ 1360  home
+ 1361  /home
+ 1362  /alice
+ 1363  /home/alice
+ 1364  ./
+ 1365  ls
+ 1366  /home/alice/android_studio/
+ 1367  ls
+ 1368  ls /home/alice/android_studio/
+ 1369  cd/home/alice/android_studio/
+ 1370  cd /home/alice/android_studio/
+ 1371  cd /home/alice/gitHub/
+ 1372  ls
+ 1373  apt-get update
+ 1374  sudo apt-get update
+ 1375  whoami
+ 1376  hostname
+ 1377  man whoami
+ 1378  man man
+ 1379  man --help -
+ 1380  cd /home/alice
+ 1381  mkdir ~/week1
+ 1382  cd ~/week1
+ 1383  /home
+ 1384  ls
+ 1385  /user/bin
+ 1386  /usr/bin
+ 1387  ls > ~/
+ 1388  cd /usr/bin
+ 1389  ls > ~/week1/ex1.txt
+ 1390  cd ~/week1
+ 1391  rm
+ 1392  cd /usr/bin
+ 1393  grep gcc > ~/week1/ex1.txt
+ 1394  cd /usr/bin
+ 1395  ls > ~/week1/ex1.txt
+ 1396  ls -r | grep "gcc" >> ex1.txt
+ 1397  ls -r | grep "gcc" >> ~/week1/ex1.txt
+ 1398  ~/week1/ex1.txt
+ 1399  cd /home/alice/week1/ex1.txt
+ 1400  cd /home/alice/week1/
+ 1401  history > ex2.txt
