@@ -44,8 +44,6 @@ int main(){
             continue;
         
 
-        FILE* file = fopen(dirnt->d_name, "r");
-
         struct stat file_stat;
         char* str =  concat("tmp/", dirnt->d_name);
         int ret = stat(str, &file_stat);
@@ -86,6 +84,6 @@ int main(){
         
     }
     
-
+    fclose(ex4);
     closedir(dir);
 }
