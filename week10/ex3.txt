@@ -6,4 +6,7 @@ alice@alice-martyanova:~/OSlabs/week10$ ls -l file_ex3.txt -rwxrw-rwx 1 alice al
 alice@alice-martyanova:~/OSlabs/week10$ chmod g=u file_ex3.txt 
 alice@alice-martyanova:~/OSlabs/week10$ ls -l file_ex3.txt -rwxrwxrwx 1 alice alice 0 окт 23 15:48 file_ex3.txt
 
+660 means rw- rw- ---
+775 means rwx rwx r-x
+777 means rwx rwx rwx
 
