@@ -1,0 +1,14 @@
+alice@alice-martyanova:~/week10$ link /home/alice/OS/Operating-Systems/week1/file.txt _ex2.txt
+
+alice@alice-martyanova:~/week10$ ls -i _ex2.txt 
+1836513 _ex2.txt
+
+alice@alice-martyanova:~/OSlabs/week10$ sudo find / -inum 1836513
+[sudo] password for alice: 
+/home/alice/OSlabs/week1/file.txt
+/home/alice/OSlabs/week10/_ex2.txt
+
+alice@alice-martyanova:~/OSlabs/week10$ find ../ -inum 1836513 -exec rm {} \;
+
+alice@alice-martyanova:~/OSlabs/week10$ find ../ -inum 1836513
+
