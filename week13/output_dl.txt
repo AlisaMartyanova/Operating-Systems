@@ -1,0 +1,2 @@
+Process  3  is deadlocked
+Process  4  is deadlocked

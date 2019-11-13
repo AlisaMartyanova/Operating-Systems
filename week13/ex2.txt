@@ -1,0 +1,24 @@
+Detection and Recovery.
+
+	The system does not attempt to prevent deadlocks from occurring. Instead, it lets them occur, tries to detect when this happens, and then takes some action to recover after the fact.
+	The first way to detect deadlock is to construct resource graph, but it is possible only when we have one resource of each type.
+	The second way is to use matrix of resources, which already works with multiple resources of each type.
+	Works well in systems where resources are requested all at once.
+	
+
+Deadlock Avoidance.
+
+	Deadlocks can be avoided, but only if certain information is available in advance: The system must be able to decide whether granting a resource is safe or not and make the allocation only when it is safe.
+	One more way is The Banker’s Algorithm which works both for single and multiple resources. The algorithm checks to see if granting the request leads to an unsafe state. If so, the request is denied. If granting the request leads to a safe state, it is carried out.
+	Works well in systems where resources are requested one at a time and only. But in fact, deadlock avoidance is essentially impossible, because it requires information about future requests, which is not known.
+
+
+Deadlock Prevention.
+
+	Assure that at least one of the conditions stated below is never satisfied: Mutual-Exclusion, Hold-and-Wait, No-Preemption, Circular wait.
+	Attacking the Hold-and-Wait: while this method puts a burden on the
+programmer and wastes resources, it does prevent deadlocks.
+	Attacking the Circular Wait Condition: Although numerically ordering the resources eliminates the problem of deadlocks, it may be impossible to find an ordering that satisfies everyone.
+	However most prevention algorithms have poor resource utilization, and hence result in reduced throughputs.
+
+
